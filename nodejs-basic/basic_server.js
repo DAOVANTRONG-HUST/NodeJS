@@ -1,4 +1,5 @@
-var http = require("http"); // them mot thu vien
+var http = require("http"); 
+// them mot thu vien
 
 // tạo một server
 var server = http.createServer(function(req, res){
