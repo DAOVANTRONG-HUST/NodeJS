@@ -8,5 +8,7 @@
   },
   "author": "trongdv",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "q": "^1.5.1"
+  }
 }
