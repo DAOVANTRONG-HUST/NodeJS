@@ -9,6 +9,7 @@
   "author": "trongdv",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.4",
     "q": "^1.5.1"
   }
 }
